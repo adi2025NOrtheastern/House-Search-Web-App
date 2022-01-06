@@ -48,10 +48,6 @@ A react based Real Estate - Home search web application, that allows users to pe
 
 The directory 'server' contains the back-end and the directory 'webapp' contains the front-end 
 
-- Clone or fork this repository
-```
-  https://github.com/neu-mis-info6150-fall2021/assignment-8-AnjaliSajeevan.git
-```
 
 Backend:
 
